@@ -1,0 +1,13 @@
+{
+    "name": "bkvlabs/packagist-claim",
+    "description": "Vendor claim",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Babkov",
+            "email": "alex.babkov@bkvlabs.com"
+        }
+    ],
+    "require": {}
+}
